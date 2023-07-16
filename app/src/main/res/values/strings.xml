@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+
+    <string name="email">Email / Phone No.</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="forget_your_password">Forget Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="already_have_an_account_sign_in">already have an account? Sign in</string>
+    <string name="name">Name</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="otp">otp</string>
+    <string name="verify">verify</string>
+    <string name="send_otp">send otp</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="changePassword">CHANGE PASSWORD</string>
+    <string name="enter_old_password">Enter old password</string>
+    <string name="todo">TODO</string>
+</resources>

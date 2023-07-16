@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597277660139",
+    "project_id": "otpverification-6a657",
+    "storage_bucket": "otpverification-6a657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597277660139:android:a878d3ab7c735070f2ffae",
+        "android_client_info": {
+          "package_name": "com.crown.passwordmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597277660139-t8u398ul7an51lilf5l401mk47h0l8qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZrP2cuiAiWlJjNbneSR-RpPbK8raE9cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597277660139-t8u398ul7an51lilf5l401mk47h0l8qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
